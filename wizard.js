@@ -16,9 +16,6 @@ elder(3, "A", ["B","A","C","B","E","F"])
 
 
 
-console.log(elder(3, "A", ["B","A","C","B","E","F"]))
-
-
 
 
 
