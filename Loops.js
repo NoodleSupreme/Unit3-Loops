@@ -14,9 +14,13 @@
 function getNumbersInRange(start, end) {
 for (let i = 0; i < 5; i++) {
   console.log("Hello!");
-  getNumbersInRange[9,10,20,50]
+  getNumbersInRange [9, 8, 7, 6, 5, 4, 3, 2, 1]
 }
 }
+let start = 1;
+let end = 5;
+let numbersInRange = getNumbersInRange(start, end);
+console.log(numbersInRange); // [1, 2, 3, 4, 5]
 -
 
 console.log(getNumbersInRange(1, 5));  // [1, 2, 3, 4, 5]
